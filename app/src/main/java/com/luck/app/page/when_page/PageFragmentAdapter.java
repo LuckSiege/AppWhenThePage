@@ -14,7 +14,7 @@ import java.util.List;
  * data：2017/2/22
  */
 public class PageFragmentAdapter extends FragmentPagerAdapter {
-    private List<PageFragment> fragments = new ArrayList<>();
+    public List<PageFragment> fragments = new ArrayList<>();
 
     public PageFragmentAdapter(FragmentManager fm, List<PageFragment> fragments) {
         super(fm);
