@@ -1,7 +1,7 @@
 # AppWhenThePage
 android 图片引导页
 
-<a target="_blank" href="//shang.qq.com/wpa/qunwpa?idkey=91eb68229f9106b90ae9fa12d01b74815dd86b26c6c8d1dcbc9a27c1d87c42a0">
+[893855882](<a target="_blank" href="//shang.qq.com/wpa/qunwpa?idkey=91eb68229f9106b90ae9fa12d01b74815dd86b26c6c8d1dcbc9a27c1d87c42a0">)
 
 非常简单的一个图片引导页
 
